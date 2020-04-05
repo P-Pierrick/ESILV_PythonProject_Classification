@@ -11,7 +11,7 @@
 
 ## scriptToCreateActivityJsonRepresentation.py : 
 
-	This script python converts a line from the csv file (one line corresponds to a participant's activity) into a json format. This json allows to test the Rest API, it will be sent to the API to make a prediction.
+	This script python converts a line from the csv file (one line corresponds to a participant's activity) into a json format. This json will allow to test the Rest API, it will be sent to the API to make a prediction.
 	The file will be generated in the project directory "outputScripts"
 
 ## outputScripts : 
@@ -20,11 +20,11 @@
 
 ## ESILV_PythonProject_Classification_Smartphone-Based_Recognition_Human_Activities.ipynb :
 
-	This file contains data analysis, it also allows to serialize the best model found in .joblib format
+	This file contains data analysis, it will also allow to serialise the best model found in .joblib format
 
 ## HumanActivitiesRecognition.joblib : 
 
-	The serialized model
+	The serialised model
 
 ## apirest : 
 
